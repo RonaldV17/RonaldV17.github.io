@@ -1,0 +1,40 @@
+.portada img {
+    height: 500px;
+    width:100%;
+  }
+
+.navbar {
+  background-color: rgb(8, 8, 37);
+}
+
+#Acerca-de-mi{
+  background-color: rgb(8, 8, 37);
+  display: inline-block;
+  max-width: fit-content;
+  padding: 0;
+  }
+
+h2{
+  color: rgb(8, 8, 37);
+}
+
+#Mis-trabajos{
+  height: 350px;
+}
+
+#Mis-trabajos .col-12{
+  display: inline-block;
+  width: 50%;
+}
+
+#Mis-trabajos p{
+  color: rgb(8, 8, 37);
+}
+
+#paginas{
+  background-color: rgb(8, 8, 37);
+}
+
+.btn{
+  background-color: rgb(8, 8, 37);
+}
